@@ -1,0 +1,6 @@
+C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\xbLiveFuscate_Source\xbLiveFuscate Source\obj\Debug\net472\xbLiveFuscate.csproj.CoreCompileInputs.cache
+C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\xbLiveFuscate_Source\xbLiveFuscate Source\bin\Debug\net472\xbLiveFuscate.exe
+C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\xbLiveFuscate_Source\xbLiveFuscate Source\bin\Debug\net472\xbLiveFuscate.pdb
+C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\xbLiveFuscate_Source\xbLiveFuscate Source\obj\Debug\net472\xbLiveFuscate.exe
+C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\xbLiveFuscate_Source\xbLiveFuscate Source\obj\Debug\net472\xbLiveFuscate.pdb
+C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\xbLiveFuscate_Source\xbLiveFuscate Source\obj\Debug\net472\xbLiveFuscate.csprojAssemblyReference.cache
